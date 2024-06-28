@@ -12,7 +12,7 @@
 <br><br>
 ## 简介
 
-<img src="2.png">
+<img src="2.png" style="width: 250px; height: 270px;">
 
 <br><br>
 之前为了准备作品集又改了改bug，比如高分辨率样式变形啥的。这会再放上来<br><br>
