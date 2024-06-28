@@ -1,0 +1,2 @@
+https://github.com/hhhhhhos/Pyqt5Gpt
+https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows
