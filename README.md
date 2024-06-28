@@ -12,15 +12,8 @@
 <br><br>
 ## 简介
 
-<p align="center">  
-  <table>  
-    <tr>  
-      <td>  
-        <img src="2.png" alt="图片描述" style="width: 250px; height: 270px;">  
-      </td>  
-    </tr>  
-  </table>  
-</p>
+| ![](2.png) |  
+| :------: |  
 
 <br>
 之前为了准备作品集又改了改bug，比如高分辨率样式变形啥的。这会再放上来<br><br>
@@ -28,8 +21,11 @@
 
 
 <br>
+
 ## 使用
+
 GPTchat for windows\chat0.2.5\chat.exe 可以直接运行 或者下载chat0.2.5.rar后解压运行chat.exe<br><br>
+
 <br><br><br>
 
 
