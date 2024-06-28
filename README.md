@@ -20,7 +20,7 @@
 自己有时就拿来当api-key检测器🤣，看看申请的api-key是否有效<br><br>
 
 
-<br><br><br>
+<br>
 ## 使用
 GPTchat for windows\chat0.2.5\chat.exe 可以直接运行 或者下载chat0.2.5.rar后解压运行chat.exe<br><br>
 <br><br><br>
